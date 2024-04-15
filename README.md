@@ -46,3 +46,9 @@
 | /k/  | `kcl`               | `Velar` constriction with `Glottal Wide` (`voiceless velar closure`)                                      |
 | REL  | `k`                 | Stop Release                                                                                              |
 - Note: it's interesting to see how the `TIMIT` transcription gives gestural information about the phonemes in addition to an explicit symbol difference between released and unreleased stops
+
+## Usage
+- To copy the Timit Database to your project, either download the repo as a Zip or run the following `git submodule` command in the root of your Git project.
+```
+git submodule add git@github.com:Ky-Ng/TIMIT-Database.git
+```
